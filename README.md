@@ -1,9 +1,16 @@
+
 ###
+<br clear="both">
+
 <div align="center">
-  <img height="285" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExa3dmaG91Z3Fqd3c0ejI5cjY1Mzl0NjIxczdsbGI4enBqYjE3NHd5eiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/d9G82SxDQQgOztFZ2C/giphy.gif"  />
+  <img height="200" src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3NXloeXN6M2tzOXNkdGFyYzF3cWVlYjZvbGkxOXB2cmNoZmF0OXp0ZiZlcD12MV9zdGlja2Vyc19yZWxhdGVkJmN0PXM/5Akl9i8YiMbl5RFvGO/giphy.gif"  />
 </div>
 
-<h1 align="center"> 👋 Osama Banihani</h1>
+
+
+###
+
+<h1 align="center"> Osama Banihani</h1>
 
 ###
 
@@ -55,16 +62,27 @@
 </div>
 
 
-###
+<br clear="both">
 
-# 📊 GitHub Stats:
+<img align="right" height="50" src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3ZzJiOXIzODl4MmxxcWp5Z3dnM3o0bHo2NXJqaDdpZ2lsc2czc3V4cSZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/hMotdpqCq0Kj4YG91F/giphy.gif"  />
+
+<br>
+
+<h2 align="center">📊 GitHub Stats:</h2>
 <div align="center">
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=osamabanihani&theme=radical)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=osamabanihani&layout=compact&theme=radical)
 
+<br>
 </div>
+<br clear="both">
+
+<img align="left" height="50" src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3ZzJiOXIzODl4MmxxcWp5Z3dnM3o0bHo2NXJqaDdpZ2lsc2czc3V4cSZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/hMotdpqCq0Kj4YG91F/giphy.gif"  />
+
+###
+
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
