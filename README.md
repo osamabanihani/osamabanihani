@@ -2,6 +2,17 @@
 
 ###
 
+<h2 align="center">🙋‍♂️About me</h2>
+
+###
+<p align="center">I am a fresh Computer Science graduate and a passionate developer specializing in web and mobile technologies. I enjoy creating interactive, modern, and user-friendly applications that combine functionality with great design. I’m always eager to learn new tools, explore innovative ideas, and contribute to impactful projects.</p>
+
+###
+
+<h2 align="center">🛠️Tech Stack</h2>
+
+###
+
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="44" alt="html5 logo"  />
   <img width="5" />
