@@ -57,5 +57,4 @@
 </div>
 
 ###
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=osamabanihani)
-##
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=osamabanihani&theme=dark&short_numbers=true&card_width=513&card_height=204)](https://git.io/streak-stats)
