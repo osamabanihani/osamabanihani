@@ -60,12 +60,16 @@
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=osamabanihani&theme=cobalt&short_numbers=true&card_width=513&card_height=204)](https://git.io/streak-stats)
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=osamabanihani&theme=radical&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=osamabanihani&theme=radical&hide_border=false)<br/>
-![GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=osamabanihani&theme=radical&show_icons=true&hide_border=true&layout=compact)
+## 📊 GitHub Stats:
+<div align="center">
 
----
-[![](https://visitcount.itsvg.in/api?id=osamabanihani&icon=0&color=0)](https://visitcount.itsvg.in)
+![Osama Banihani's GitHub Stats](https://github-readme-stats.vercel.app/api?username=osamabanihani&show_icons=true&theme=radical)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=osamabanihani&theme=radical)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=osamabanihani&layout=compact&theme=radical)
+
+</div>
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
