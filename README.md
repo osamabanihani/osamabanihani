@@ -31,8 +31,6 @@
   <img width="4" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="44" alt="react logo"  />
   <img width="4" />
-  <img src="https://skillicons.dev/icons?i=nextjs" height="44" alt="nextjs logo"  />
-  <img width="4" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="44" alt="nodejs logo"  />
   <img width="4" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="44" alt="csharp logo"  />
@@ -56,13 +54,9 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="44" alt="microsoftsqlserver logo"  />
 </div>
 
-###
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=osamabanihani&theme=cobalt&short_numbers=true&card_width=513&card_height=204)](https://git.io/streak-stats)
-
 # 📊 GitHub Stats:
-## 📊 GitHub Stats:
 <div align="center">
-
+  
 ![Osama Banihani's GitHub Stats](https://github-readme-stats.vercel.app/api?username=osamabanihani&show_icons=true&theme=radical)
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=osamabanihani&theme=radical)
