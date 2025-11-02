@@ -57,15 +57,17 @@
 </div>
 
 ###
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=osamabanihani&theme=cobalt&short_numbers=true&card_width=513&card_height=204)](https://git.io/streak-stats)
 
 # 📊 GitHub Stats:
+<div  align="center">
 ![](https://github-readme-stats.vercel.app/api?username=osamabanihani&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=osamabanihani&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=osamabanihani&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=osamabanihani&icon=0&color=0)](https://visitcount.itsvg.in)
-
+</div>
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 
