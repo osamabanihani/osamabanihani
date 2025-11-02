@@ -7,10 +7,14 @@
 
 ###
 
+<p align="center">💻Web & Mobile App Developer<br>🎓 B.Sc. Computer Science – Jadara University <br>🌍 Based in Jordan</p>
+
+###
+
 <h2 align="center">🙋‍♂️About me</h2>
 
 ###
-<p align="center">I am a fresh Computer Science graduate and a passionate developer specializing in web and mobile technologies. I enjoy creating interactive, modern, and user-friendly applications that combine functionality with great design. I’m always eager to learn new tools, explore innovative ideas, and contribute to impactful projects.</p>
+<p align="center">I’m a fresh Computer Science graduate and a passionate developer specializing in web and mobile technologies. I enjoy creating interactive, modern, and user-friendly applications that combine functionality with great design. I’m always eager to learn new tools, explore innovative ideas, and contribute to impactful projects.</p>
 
 ###
 
