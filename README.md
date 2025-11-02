@@ -54,6 +54,12 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="44" alt="microsoftsqlserver logo"  />
 </div>
 
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/osamabanihani/osamabanihani/output/snake.svg" alt="Snake animation" />
+
+###
+
 # 📊 GitHub Stats:
 <div align="center">
 
@@ -65,8 +71,4 @@
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
-<div align="center">
-  <a href="https://open.spotify.com/user/banihanihere">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=banihanihere&count=5&unique=true" alt="Spotify recently played"  />
-  </a>
-</div>
+
