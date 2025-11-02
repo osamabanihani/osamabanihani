@@ -1,3 +1,8 @@
+###
+<div align="center">
+  <img height="285" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExa3dmaG91Z3Fqd3c0ejI5cjY1Mzl0NjIxczdsbGI4enBqYjE3NHd5eiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/d9G82SxDQQgOztFZ2C/giphy.gif"  />
+</div>
+###
 <h1 align="center">Osama Banihani</h1>
 
 ###
