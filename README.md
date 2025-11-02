@@ -53,8 +53,6 @@
   <img width="5" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" height="44" alt="androidstudio logo"  />
   <img width="5" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" height="44" alt="npm logo"  />
-  <img width="5" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="44" alt="microsoftsqlserver logo"  />
 </div>
 
