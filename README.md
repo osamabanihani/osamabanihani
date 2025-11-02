@@ -56,8 +56,6 @@
 
 # 📊 GitHub Stats:
 <div align="center">
-  
-![Osama Banihani's GitHub Stats](https://github-readme-stats.vercel.app/api?username=osamabanihani&show_icons=true&theme=radical)
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=osamabanihani&theme=radical)
 
