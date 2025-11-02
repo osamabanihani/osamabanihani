@@ -54,9 +54,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="44" alt="microsoftsqlserver logo"  />
 </div>
 
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/osamabanihani/osamabanihani/output/snake.svg" alt="Snake animation" />
 
 ###
 
