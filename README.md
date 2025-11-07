@@ -64,22 +64,26 @@
 
 <br clear="both">
 
-<img align="right" height="50" src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3ZzJiOXIzODl4MmxxcWp5Z3dnM3o0bHo2NXJqaDdpZ2lsc2czc3V4cSZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/hMotdpqCq0Kj4YG91F/giphy.gif"  />
+<img align="right" height="80" src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3ZzJiOXIzODl4MmxxcWp5Z3dnM3o0bHo2NXJqaDdpZ2lsc2czc3V4cSZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/hMotdpqCq0Kj4YG91F/giphy.gif"  />
 
 <br>
 
 <h2 align="center">📊 GitHub Stats:</h2>
 <div align="center">
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=osamabanihani&theme=radical)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=osamabanihani&layout=compact&theme=radical)
+<br>
+<br>
+<br>
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=osamabanihani&theme=radical)
+
 
 <br>
 </div>
 <br clear="both">
 
-<img align="left" height="50" src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3ZzJiOXIzODl4MmxxcWp5Z3dnM3o0bHo2NXJqaDdpZ2lsc2czc3V4cSZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/hMotdpqCq0Kj4YG91F/giphy.gif"  />
+<img align="left" height="80" src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3ZzJiOXIzODl4MmxxcWp5Z3dnM3o0bHo2NXJqaDdpZ2lsc2czc3V4cSZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/hMotdpqCq0Kj4YG91F/giphy.gif"  />
 
 ###
 
