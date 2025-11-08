@@ -74,7 +74,7 @@
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=osamabanihani&layout=compact&theme=radical)
 <br>
-<br>
+
 <br>
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=osamabanihani&theme=radical)
 
