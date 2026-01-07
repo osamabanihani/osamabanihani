@@ -10,7 +10,8 @@
 
 ###
 <h1 align="center"> Osama Banihani</h1>
-###
+
+
 <p align="center">💻Web & Mobile App Developer<br>🎓 B.Sc. Computer Science – Jadara University <br>🌍 Based in Jordan</p>
 <div align="center">
  <a href="https://portfolio-8dsj-dr2yhzfyd-banihaniheres-projects.vercel.app">portfolio</a>
