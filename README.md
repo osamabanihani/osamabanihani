@@ -14,7 +14,7 @@
 
 <p align="center">💻Web & Mobile App Developer<br>🎓 B.Sc. Computer Science – Jadara University <br>🌍 Based in Jordan</p>
 <div align="center">
- <a href="osama-portfolio-orcin.vercel.app">portfolio</a>
+ <a href="osama-portfolio-orcin.vercel.app](https://osama-portfolio-orcin.vercel.app/">portfolio</a>
  </div>
 
 ###
