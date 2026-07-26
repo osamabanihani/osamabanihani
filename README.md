@@ -160,7 +160,6 @@ My practical experience includes developing responsive React interfaces, integra
 <code><img width="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js" title="Node.js" /></code>
 <code><img width="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" alt="Express" title="Express.js" /></code>
 <code><img width="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" title="Python" /></code>
-<code><img width="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" alt="Laravel" title="Laravel" /></code>
 
 ![REST API](https://img.shields.io/badge/RESTful_APIs-58A6FF?style=flat&logo=fastapi&logoColor=white)
 ![JWT](https://img.shields.io/badge/JWT_Authentication-000000?style=flat&logo=jsonwebtokens&logoColor=white)
