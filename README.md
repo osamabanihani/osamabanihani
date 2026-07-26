@@ -1,5 +1,4 @@
-<div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:020617,50:0B3B8C,100:2563EB&text=Osama%20Banihani&fontColor=FFFFFF&fontSize=48&fontAlignY=36&desc=Web%20%26%20Mobile%20App%20Developer&descAlignY=56&descSize=20&animation=fadeIn" alt="Osama Banihani animated header" />
+
 </div>
 
 <div align="center">
