@@ -1,91 +1,152 @@
-
-###
-<br clear="both">
-
 <div align="center">
-  <img height="200" src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3NXloeXN6M2tzOXNkdGFyYzF3cWVlYjZvbGkxOXB2cmNoZmF0OXp0ZiZlcD12MV9zdGlja2Vyc19yZWxhdGVkJmN0PXM/5Akl9i8YiMbl5RFvGO/giphy.gif"  />
+
+# Hi, I'm Osama Banihani 👋
+
+### Web & Mobile App Developer
+
+<p>
+  Computer Science graduate based in Amman, Jordan, focused on building responsive web applications, scalable backend services, and cross-platform mobile experiences.
+</p>
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20Website-2563EB?style=for-the-badge&logo=vercel&logoColor=white)](https://osama-portfolio-orcin.vercel.app/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/osama-banihani-/)
+[![Email](https://img.shields.io/badge/Email-Contact%20Me-111827?style=for-the-badge&logo=gmail&logoColor=white)](mailto:osamabanihani124@gmail.com)
+
 </div>
 
+---
 
+## About Me
 
-###
-<h1 align="center"> Osama Banihani</h1>
+I am a motivated Computer Science graduate specializing in full-stack web and mobile application development. I enjoy turning ideas into practical, user-focused digital products using modern frameworks, clean code, and well-structured databases.
 
+- 🔭 Building full-stack web and mobile applications
+- 🌱 Continuously improving my React, Node.js, Flutter, and database skills
+- 🤝 Open to junior developer, internship, freelance, and collaboration opportunities
+- 📍 Amman, Jordan
+- 📫 `osamabanihani124@gmail.com`
 
-<p align="center">💻Web & Mobile App Developer<br>🎓 B.Sc. Computer Science – Jadara University <br>🌍 Based in Jordan</p>
+---
+
+## Technical Skills
+
+### Frontend
+
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,bootstrap,vite" alt="Frontend skills" />
+</p>
+
+### Backend & APIs
+
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,python,laravel" alt="Backend skills" />
+</p>
+
+`RESTful APIs` · `JWT Authentication` · `Sanic`
+
+### Mobile Development
+
+<p>
+  <img src="https://skillicons.dev/icons?i=flutter,dart" alt="Mobile development skills" />
+</p>
+
+### Databases
+
+<p>
+  <img src="https://skillicons.dev/icons?i=mongodb,postgres,mysql,firebase,sqlite" alt="Database skills" />
+</p>
+
+### Tools
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,postman,figma,vscode,vercel" alt="Development tools" />
+</p>
+
+---
+
+## Featured Projects
+
+| Project | Description | Technologies |
+|---|---|---|
+| [Travel Nest](https://github.com/osamabanihani/TravelNest) | Full-stack tourism platform with destination browsing, packages, booking workflows, favorites, reviews, and role-based dashboards. | React, Laravel, Inertia.js, Tailwind CSS, MySQL |
+| [Elite Vision](https://github.com/osamabanihani/elite-vision) | Responsive fashion e-commerce application with authentication, product browsing, REST API integration, and a scalable MERN architecture. | React, Vite, Node.js, Express, MongoDB |
+| [NewsPLAT](https://github.com/osamabanihani/NewsPLAT) | Full-stack news platform for users, journalists, and administrators with article review workflows and role-based access control. | React, Python, Sanic, SQLite, JWT |
+| [React AI Chatbot](https://github.com/osamabanihani/react-ai-chatbot) | Responsive AI chat interface featuring streaming responses, Markdown rendering, typing feedback, and a modern glass-style UI. | React, Vite, Axios, React Markdown, Bootstrap |
+| [Movie Explorer](https://github.com/osamabanihani/movie-explorer) | Cinematic movie discovery application with trending titles, search, details, trailers, favorites, and local-storage persistence. | React, Vite, React Router, TMDB API |
+| [Sushi App](https://github.com/osamabanihani/flutter-project) | Cross-platform mobile application for browsing sushi dishes and viewing detailed product information. | Flutter, Dart, Material Design |
+
 <div align="center">
- <a href="https://osama-portfolio-orcin.vercel.app/">portfolio</a>
- </div>
 
-###
+[![View All Repositories](https://img.shields.io/badge/View%20All%20Repositories-111827?style=for-the-badge&logo=github&logoColor=white)](https://github.com/osamabanihani?tab=repositories)
 
-<h2 align="center">🙋‍♂️About me</h2>
-
-###
-<p align="center">I’m a fresh Computer Science graduate and a passionate developer specializing in web and mobile technologies. I enjoy creating interactive, modern, and user-friendly applications that combine functionality with great design. I’m always eager to learn new tools, explore innovative ideas, and contribute to impactful projects.</p>
-
-###
-
-<h2 align="center">🛠️Tech Stack</h2>
-
-###
-
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="44" alt="html5 logo"  />
-  <img width="6" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="44" alt="css logo"  />
-  <img width="6" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="44" alt="javascript logo"  />
-  <img width="6" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="44" alt="react logo"  />
-  <img width="6" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="44" alt="nodejs logo"  />
-  <img width="6" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="44" alt="csharp logo"  />
-  <img width="6" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="44" alt="cplusplus logo"  />
-  <img width="6" />
-   <br>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="44" alt="flutter logo"  />
-  <img width="6" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" height="44" alt="dart logo"  />
-  <img width="6" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="44" alt="figma logo"  />
-  <img width="6" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="44" alt="mysql logo"  />
-  <img width="6" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="44" alt="vscode logo"  />
-  <img width="6" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="44" alt="github logo"  />
-  <img width="6" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="44" alt="microsoftsqlserver logo"  />
 </div>
 
+---
 
-<br clear="both">
+## Experience
 
-<img align="right" height="100" src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3ZzJiOXIzODl4MmxxcWp5Z3dnM3o0bHo2NXJqaDdpZ2lsc2czc3V4cSZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/hMotdpqCq0Kj4YG91F/giphy.gif"  />
+### Full Stack Developer — DOT Jordan
+**January 2026 – May 2026 · Amman, Jordan**
 
-<br>
+- Built full-stack applications using the MERN stack.
+- Designed and integrated RESTful APIs between React and Node.js/Express.
+- Managed MongoDB collections and Mongoose schemas.
+- Collaborated with a five-developer team using Git and GitHub.
 
-<h2 align="center">📊 GitHub Stats:</h2>
+### Flutter Developer — DOT Jordan
+**October 2025 – December 2025 · Amman, Jordan**
+
+- Built two cross-platform applications using Flutter and Dart.
+- Converted Figma designs into responsive mobile interfaces.
+- Implemented state management and REST API integrations.
+
+### Full Stack Web Development Trainee — Tuned Applications
+**June 2023 – October 2023 · Irbid, Jordan**
+
+- Contributed to ASP.NET frontend and backend development.
+- Built responsive interfaces using HTML5, CSS3, JavaScript, and Bootstrap.
+
+---
+
+## Education
+
+**Bachelor of Science in Computer Science**  
+Jadara University · Irbid, Jordan · **2021–2025**
+
+---
+
+## Certificates
+
+- **Full Stack Development Training — DOT Jordan** · 130 hours · May 2026
+- **Mobile Applications Development Using Flutter — DOT Jordan / UNICEF** · 69 hours · December 2025
+- **The Complete Full-Stack Web Development Bootcamp — Udemy** · 62 hours · November 2025
+- **droidcon Amman — Certificate of Attendance** · January 2024
+
+---
+
+## GitHub Analytics
+
 <div align="center">
 
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=osamabanihani&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="Osama's GitHub statistics" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=osamabanihani&layout=compact&theme=tokyonight&hide_border=true" alt="Osama's most used languages" />
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=osamabanihani&layout=compact&theme=radical)
-<br>
-<br>
-<br>
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=osamabanihani&theme=radical)
+<br />
 
+<img src="https://streak-stats.demolab.com?user=osamabanihani&theme=tokyonight&hide_border=true" alt="Osama's GitHub contribution streak" />
 
-<br>
 </div>
-<br clear="both">
-<img align="left" height="100" src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3ZzJiOXIzODl4MmxxcWp5Z3dnM3o0bHo2NXJqaDdpZ2lsc2czc3V4cSZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/hMotdpqCq0Kj4YG91F/giphy.gif"  />
 
+---
 
+<div align="center">
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+### Let's Build Something Great
 
+I am interested in opportunities where I can contribute, learn, and build reliable digital products with a collaborative engineering team.
 
+[![Portfolio](https://img.shields.io/badge/Explore%20My%20Portfolio-2563EB?style=for-the-badge&logo=vercel&logoColor=white)](https://osama-portfolio-orcin.vercel.app/)
+
+<img src="https://komarev.com/ghpvc/?username=osamabanihani&label=Profile%20Views&color=2563eb&style=flat" alt="Profile views" />
+
+</div>
