@@ -1,14 +1,31 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=29&duration=3000&pause=700&color=58A6FF&center=true&vCenter=true&width=650&height=75&lines=Osama+Banihani;Web+%26+Mobile+App+Developer;React+%7C+Node.js+%7C+Flutter;Building+Modern+Digital+Experiences" alt="Typing animation showing Osama Banihani and developer titles" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:020617,50:0B3B8C,100:2563EB&text=Osama%20Banihani&fontColor=FFFFFF&fontSize=48&fontAlignY=36&desc=Web%20%26%20Mobile%20App%20Developer&descAlignY=56&descSize=20&animation=fadeIn" alt="Osama Banihani animated header" />
 </div>
 
 <div align="center">
-  <img src="https://img.shields.io/badge/B.Sc._Computer_Science-1F6FEB?style=for-the-badge&logo=academia&logoColor=white" alt="Bachelor of Computer Science badge" />
-  <img src="https://img.shields.io/badge/Web_%26_Mobile_Developer-181717?style=for-the-badge&logo=github&logoColor=white" alt="Web and Mobile Developer badge" />
-  <img src="https://img.shields.io/badge/Amman,_Jordan-0D1117?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Amman Jordan badge" />
-  <a href="https://osama-portfolio-orcin.vercel.app/" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/Live_Portfolio-58A6FF?style=for-the-badge&logo=vercel&logoColor=white" alt="Live portfolio button" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&duration=2800&pause=650&color=58A6FF&center=true&vCenter=true&repeat=true&width=760&height=60&lines=Full-Stack+Web+Developer;Cross-Platform+Flutter+Developer;React.js+%7C+Node.js+%7C+Express.js;Building+Clean%2C+Scalable+Digital+Products;Always+Learning.+Always+Building." alt="Animated developer introduction" />
+</div>
+
+<div align="center">
+  <a href="https://osama-portfolio-orcin.vercel.app/">
+    <img src="https://img.shields.io/badge/Portfolio-Visit%20Website-2563EB?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
   </a>
+  <a href="https://www.linkedin.com/in/osama-banihani-/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:osamabanihani124@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://github.com/osamabanihani?tab=repositories">
+    <img src="https://img.shields.io/badge/Repositories-Explore-181717?style=for-the-badge&logo=github&logoColor=white" alt="Repositories" />
+  </a>
+</div>
+
+<div align="center">
+  <br />
+  <img src="https://komarev.com/ghpvc/?username=osamabanihani&label=PROFILE+VIEWS&color=2563EB&style=for-the-badge" alt="Profile views" />
+  <img src="https://img.shields.io/badge/Location-Amman%2C%20Jordan-0D1117?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Amman Jordan" />
+  <img src="https://img.shields.io/badge/Open%20To-Opportunities-16A34A?style=for-the-badge" alt="Open to opportunities" />
 </div>
 
 <br />
@@ -17,178 +34,115 @@
 
 ## 👨‍💻 About Me
 
-```javascript
-class WebAndMobileDeveloper {
-  constructor() {
-    this.name = "Osama Banihani";
-    this.education = "B.Sc. Computer Science – Jadara University";
-    this.location = "Amman, Jordan";
-    this.email = "osamabanihani124@gmail.com";
-    this.role = "Web & Mobile App Developer";
-    this.stack = [
-      "React.js",
-      "Node.js & Express",
-      "Flutter & Dart",
-      "RESTful APIs",
-      "MongoDB & PostgreSQL"
-    ];
-    this.interests = [
-      "Full-Stack Development",
-      "Mobile Applications",
-      "Scalable Backend Systems",
-      "Clean UI/UX",
-      "Software Engineering"
-    ];
-  }
-
-  philosophy() {
-    return "Build useful products, write clean code, keep learning.";
-  }
-}
-```
-
 <table>
   <tr>
-    <td width="65%">
+    <td width="62%" valign="top">
 
-I am a motivated Computer Science graduate specializing in **full-stack web and mobile application development**. I build scalable, user-focused digital solutions using modern frameworks, clean code, and structured database systems.
+```javascript
+const osama = {
+  name: "Osama Banihani",
+  role: "Web & Mobile App Developer",
+  education: "B.Sc. Computer Science",
+  university: "Jadara University",
+  location: "Amman, Jordan",
+  frontend: ["React.js", "JavaScript", "HTML5", "CSS3", "Bootstrap"],
+  backend: ["Node.js", "Express.js", "RESTful APIs", "JWT"],
+  mobile: ["Flutter", "Dart"],
+  databases: ["MongoDB", "PostgreSQL", "MySQL", "Firebase"],
+  mindset: "Build useful products and improve with every commit"
+};
+```
 
-My practical experience includes developing responsive React interfaces, integrating RESTful APIs, building Node.js and Express backends, managing databases, and creating cross-platform mobile applications with Flutter.
+I am a motivated Computer Science graduate specializing in **full-stack web and mobile application development**. I create responsive, user-focused applications using modern frameworks, clean code, structured APIs, and reliable databases.
 
-### ⚡ Quick Facts
+I enjoy transforming ideas into working digital products—from React interfaces and Node.js services to cross-platform Flutter applications.
 
-- 🎓 B.Sc. Computer Science — Jadara University, 2021–2025
-- 💻 Web & Mobile App Developer based in Amman, Jordan
-- ⚛️ Building responsive applications with React.js and Vite
-- 🟢 Developing APIs and backend services with Node.js and Express
-- 📱 Creating cross-platform mobile applications using Flutter and Dart
-- 🗄️ Working with MongoDB, PostgreSQL, Firebase Firestore, MySQL, and SQLite
-- 🤝 Open to junior developer, internship, freelance, and collaboration opportunities
-- 📧 Reach me at `osamabanihani124@gmail.com`
+- 🔭 Building full-stack web and mobile projects
+- 🌱 Improving application architecture, API design, and deployment skills
+- 🤝 Open to junior developer, internship, freelance, and team opportunities
+- 📫 **osamabanihani124@gmail.com**
 
     </td>
-    <td width="35%" align="center">
-      <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="280" alt="Developer working at a computer" />
+    <td width="38%" align="center" valign="middle">
+      <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="310" alt="Animated developer coding" />
     </td>
   </tr>
 </table>
 
 ---
 
-## 🎯 Development Philosophy
-
-> **Build with purpose. Keep the code clean. Improve with every project.**  
-> I believe strong software begins with understanding the real problem, choosing practical tools, and creating maintainable solutions that users can rely on.
->
-> My approach is to design logically, build iteratively, test carefully, and keep learning from feedback and real development challenges.
-
----
-
-## 📌 Current Focus
+## 🚀 What I Build
 
 <div align="center">
 
-| Area | Current Focus | Status |
-|:-----|:--------------|:------:|
-| **Frontend Development** | React.js, responsive interfaces, component architecture | 🔄 Active |
-| **Backend Development** | Node.js, Express.js, RESTful APIs, JWT authentication | 🔄 Active |
-| **Mobile Development** | Flutter, Dart, reusable widgets, API integration | 🔄 Active |
-| **Database Systems** | MongoDB, PostgreSQL, Firebase Firestore, MySQL | 🔄 Active |
-| **Deployment & Collaboration** | Git, GitHub, Vercel, Render, team workflows | 🔄 Active |
+| 🌐 Web Applications | ⚙️ Backend Services | 📱 Mobile Applications | 🗄️ Data Solutions |
+|:---:|:---:|:---:|:---:|
+| Responsive React interfaces | RESTful APIs with Node.js | Flutter apps for Android & iOS | Structured relational and NoSQL databases |
+| Accessible, reusable components | Authentication and authorization | Reusable widgets and API integration | MongoDB, PostgreSQL, MySQL, Firebase |
 
 </div>
 
 ---
 
-## 💼 Experience
-
-### Full Stack Developer — DOT Jordan
-**January 2026 – May 2026 · Amman, Jordan**
-
-- Built and deployed full-stack web applications using the MERN stack.
-- Delivered three production-ready features across frontend and backend.
-- Designed and integrated RESTful APIs connecting React.js with Node.js and Express.
-- Managed MongoDB collections and Mongoose schemas for dynamic data models.
-- Collaborated with a team of five developers using Git and GitHub.
-
-### Flutter Developer — DOT Jordan
-**October 2025 – December 2025 · Amman, Jordan**
-
-- Built two cross-platform mobile applications using Flutter and Dart.
-- Converted Figma designs into responsive production interfaces.
-- Implemented state management and integrated REST APIs.
-- Maintained consistent behavior across Android and iOS.
-
-### Full Stack Web Development Trainee — Tuned Applications
-**June 2023 – October 2023 · Irbid, Jordan**
-
-- Contributed to frontend and backend development within ASP.NET projects.
-- Built responsive interfaces using HTML5, CSS3, JavaScript, and Bootstrap.
-
----
-
-## 🏅 Certifications
+## 🛠️ Technology Stack
 
 <div align="center">
 
-| Certification | Issuer | Details |
-|:--------------|:-------|:-------:|
-| Full Stack Development Training | DOT Jordan | 130 Hours · 2026 |
-| Mobile Applications Development Using Flutter | DOT Jordan / UNICEF | 69 Hours · 2025 |
-| The Complete Full-Stack Web Development Bootcamp | Udemy | 62 Hours · 2025 |
-| droidcon Amman Certificate of Attendance | droidcon Amman | 2024 |
+### Frontend
+
+<img src="https://skillicons.dev/icons?i=html,css,js,react,bootstrap,vite&theme=dark" alt="Frontend technologies" />
+
+### Backend & APIs
+
+<img src="https://skillicons.dev/icons?i=nodejs,express,python,laravel&theme=dark" alt="Backend technologies" />
+
+<br />
+
+<img src="https://img.shields.io/badge/RESTful_APIs-2563EB?style=for-the-badge&logo=fastapi&logoColor=white" alt="REST APIs" />
+<img src="https://img.shields.io/badge/JWT_Authentication-111827?style=for-the-badge&logo=jsonwebtokens&logoColor=white" alt="JWT authentication" />
+<img src="https://img.shields.io/badge/Sanic-FF6B6B?style=for-the-badge&logo=python&logoColor=white" alt="Sanic" />
+
+### Mobile
+
+<img src="https://skillicons.dev/icons?i=flutter,dart,androidstudio&theme=dark" alt="Mobile development technologies" />
+
+### Databases
+
+<img src="https://skillicons.dev/icons?i=mongodb,postgres,mysql,firebase,sqlite&theme=dark" alt="Database technologies" />
+
+### Tools & Platforms
+
+<img src="https://skillicons.dev/icons?i=git,github,postman,figma,vscode,vercel&theme=dark" alt="Development tools" />
 
 </div>
 
 ---
 
-## 🛠️ Tech Stack
+## 💼 Professional Experience
 
-<div align="center">
-
-### 🎨 Frontend
-
-<code><img width="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" title="HTML5" /></code>
-<code><img width="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" title="CSS3" /></code>
-<code><img width="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" title="JavaScript" /></code>
-<code><img width="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" title="React.js" /></code>
-<code><img width="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" alt="Bootstrap" title="Bootstrap" /></code>
-<code><img width="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vitejs/vitejs-original.svg" alt="Vite" title="Vite" /></code>
-
-### ⚙️ Backend & APIs
-
-<code><img width="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js" title="Node.js" /></code>
-<code><img width="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" alt="Express" title="Express.js" /></code>
-<code><img width="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" title="Python" /></code>
-
-![REST API](https://img.shields.io/badge/RESTful_APIs-58A6FF?style=flat&logo=fastapi&logoColor=white)
-![JWT](https://img.shields.io/badge/JWT_Authentication-000000?style=flat&logo=jsonwebtokens&logoColor=white)
-![Sanic](https://img.shields.io/badge/Sanic-FF6B6B?style=flat&logo=python&logoColor=white)
-
-### 📱 Mobile Development
-
-<code><img width="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" alt="Flutter" title="Flutter" /></code>
-<code><img width="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" alt="Dart" title="Dart" /></code>
-<code><img width="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" alt="Android Studio" title="Android Studio" /></code>
-
-### 🗄️ Databases
-
-<code><img width="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="MongoDB" title="MongoDB" /></code>
-<code><img width="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" title="PostgreSQL" /></code>
-<code><img width="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" title="MySQL" /></code>
-<code><img width="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" alt="Firebase" title="Firebase Firestore" /></code>
-<code><img width="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" alt="SQLite" title="SQLite" /></code>
-
-### 🔧 Tools & Platforms
-
-<code><img width="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" title="Git" /></code>
-<code><img width="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" title="GitHub" /></code>
-<code><img width="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" alt="Postman" title="Postman" /></code>
-<code><img width="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="Figma" title="Figma" /></code>
-<code><img width="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VS Code" title="VS Code" /></code>
-<code><img width="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vercel/vercel-original.svg" alt="Vercel" title="Vercel" /></code>
-
-</div>
+<table>
+  <tr>
+    <td width="24%"><b>Jan 2026 – May 2026</b></td>
+    <td>
+      <b>Full Stack Developer — DOT Jordan</b><br />
+      Built MERN applications, integrated REST APIs, managed MongoDB and Mongoose data models, and collaborated with a five-developer Git workflow.
+    </td>
+  </tr>
+  <tr>
+    <td><b>Oct 2025 – Dec 2025</b></td>
+    <td>
+      <b>Flutter Developer — DOT Jordan</b><br />
+      Developed two cross-platform applications, converted Figma designs into responsive interfaces, and integrated state management and APIs.
+    </td>
+  </tr>
+  <tr>
+    <td><b>Jun 2023 – Oct 2023</b></td>
+    <td>
+      <b>Full Stack Web Development Trainee — Tuned Applications</b><br />
+      Contributed to ASP.NET projects and built responsive interfaces with HTML5, CSS3, JavaScript, and Bootstrap.
+    </td>
+  </tr>
+</table>
 
 ---
 
@@ -196,117 +150,134 @@ My practical experience includes developing responsive React interfaces, integra
 
 <table>
   <tr>
-    <td width="50%">
+    <td width="50%" valign="top">
       <h3 align="center">🌍 Travel Nest</h3>
       <p align="center">
-        <a href="https://github.com/osamabanihani/TravelNest" target="_blank" rel="noopener noreferrer">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=osamabanihani&repo=TravelNest&theme=react&border_color=58A6FF&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF" alt="Travel Nest repository card" />
+        <a href="https://github.com/osamabanihani/TravelNest">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=osamabanihani&repo=TravelNest&theme=github_dark&border_color=2563EB&title_color=58A6FF&icon_color=58A6FF" alt="Travel Nest repository" />
         </a>
       </p>
+      <p align="center">Tourism booking platform with user, company, and admin experiences.</p>
       <p align="center">
-        Full-stack tourism platform with booking workflows, destinations, packages, favorites, reviews, and role-based dashboards.<br /><br />
-        <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React badge" />
-        <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel badge" />
-        <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL badge" />
+        <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React" />
+        <img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white" alt="Laravel" />
+        <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL" />
       </p>
     </td>
-    <td width="50%">
+    <td width="50%" valign="top">
       <h3 align="center">👗 Elite Vision</h3>
       <p align="center">
-        <a href="https://github.com/osamabanihani/elite-vision" target="_blank" rel="noopener noreferrer">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=osamabanihani&repo=elite-vision&theme=react&border_color=58A6FF&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF" alt="Elite Vision repository card" />
+        <a href="https://github.com/osamabanihani/elite-vision">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=osamabanihani&repo=elite-vision&theme=github_dark&border_color=2563EB&title_color=58A6FF&icon_color=58A6FF" alt="Elite Vision repository" />
         </a>
       </p>
+      <p align="center">Modern MERN fashion e-commerce platform with authentication and responsive shopping flows.</p>
       <p align="center">
-        Modern MERN fashion e-commerce application with authentication, responsive shopping flows, and REST API integration.<br /><br />
-        <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React badge" />
-        <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js badge" />
-        <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB badge" />
+        <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React" />
+        <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js" />
+        <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB" />
       </p>
     </td>
   </tr>
   <tr>
-    <td width="50%">
+    <td width="50%" valign="top">
       <h3 align="center">📰 NewsPLAT</h3>
       <p align="center">
-        <a href="https://github.com/osamabanihani/NewsPLAT" target="_blank" rel="noopener noreferrer">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=osamabanihani&repo=NewsPLAT&theme=react&border_color=58A6FF&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF" alt="NewsPLAT repository card" />
+        <a href="https://github.com/osamabanihani/NewsPLAT">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=osamabanihani&repo=NewsPLAT&theme=github_dark&border_color=2563EB&title_color=58A6FF&icon_color=58A6FF" alt="NewsPLAT repository" />
         </a>
       </p>
+      <p align="center">Role-based news platform for readers, journalists, and administrators.</p>
       <p align="center">
-        Full-stack news platform for users, journalists, and administrators with publishing and approval workflows.<br /><br />
-        <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React badge" />
-        <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python badge" />
-        <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite badge" />
+        <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React" />
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
+        <img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white" alt="SQLite" />
       </p>
     </td>
-    <td width="50%">
+    <td width="50%" valign="top">
       <h3 align="center">🤖 React AI Chatbot</h3>
       <p align="center">
-        <a href="https://github.com/osamabanihani/react-ai-chatbot" target="_blank" rel="noopener noreferrer">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=osamabanihani&repo=react-ai-chatbot&theme=react&border_color=58A6FF&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF" alt="React AI Chatbot repository card" />
+        <a href="https://github.com/osamabanihani/react-ai-chatbot">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=osamabanihani&repo=react-ai-chatbot&theme=github_dark&border_color=2563EB&title_color=58A6FF&icon_color=58A6FF" alt="React AI Chatbot repository" />
         </a>
       </p>
+      <p align="center">AI chat interface with streaming responses, Markdown support, and responsive glass UI.</p>
       <p align="center">
-        Responsive AI chat application with streaming responses, Markdown rendering, typing feedback, and a glass-style interface.<br /><br />
-        <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React badge" />
-        <img src="https://img.shields.io/badge/Axios-5A29E4?style=for-the-badge&logo=axios&logoColor=white" alt="Axios badge" />
+        <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React" />
+        <img src="https://img.shields.io/badge/Axios-5A29E4?style=flat-square&logo=axios&logoColor=white" alt="Axios" />
+        <img src="https://img.shields.io/badge/AI_API-2563EB?style=flat-square" alt="AI API" />
       </p>
     </td>
   </tr>
   <tr>
-    <td width="50%">
+    <td width="50%" valign="top">
       <h3 align="center">🎬 Movie Explorer</h3>
       <p align="center">
-        <a href="https://github.com/osamabanihani/movie-explorer" target="_blank" rel="noopener noreferrer">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=osamabanihani&repo=movie-explorer&theme=react&border_color=58A6FF&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF" alt="Movie Explorer repository card" />
+        <a href="https://github.com/osamabanihani/movie-explorer">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=osamabanihani&repo=movie-explorer&theme=github_dark&border_color=2563EB&title_color=58A6FF&icon_color=58A6FF" alt="Movie Explorer repository" />
         </a>
       </p>
+      <p align="center">Cinematic React application for trending movies, search, trailers, and favorites.</p>
       <p align="center">
-        Cinematic movie discovery app with trending films, search, trailers, details, favorites, and local-storage persistence.<br /><br />
-        <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React badge" />
-        <img src="https://img.shields.io/badge/TMDB_API-01B4E4?style=for-the-badge&logo=themoviedatabase&logoColor=white" alt="TMDB API badge" />
+        <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React" />
+        <img src="https://img.shields.io/badge/TMDB-01B4E4?style=flat-square&logo=themoviedatabase&logoColor=white" alt="TMDB" />
       </p>
     </td>
-    <td width="50%">
+    <td width="50%" valign="top">
       <h3 align="center">🍣 Sushi App</h3>
       <p align="center">
-        <a href="https://github.com/osamabanihani/flutter-project" target="_blank" rel="noopener noreferrer">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=osamabanihani&repo=flutter-project&theme=react&border_color=58A6FF&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF" alt="Sushi App repository card" />
+        <a href="https://github.com/osamabanihani/flutter-project">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=osamabanihani&repo=flutter-project&theme=github_dark&border_color=2563EB&title_color=58A6FF&icon_color=58A6FF" alt="Sushi App repository" />
         </a>
       </p>
+      <p align="center">Cross-platform mobile application for browsing sushi dishes and product details.</p>
       <p align="center">
-        Cross-platform Flutter application for browsing sushi dishes and viewing detailed product information.<br /><br />
-        <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter badge" />
-        <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" alt="Dart badge" />
+        <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" alt="Flutter" />
+        <img src="https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white" alt="Dart" />
       </p>
     </td>
   </tr>
 </table>
 
 <div align="center">
-  <a href="https://github.com/osamabanihani?tab=repositories" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/View_All_Repositories-181717?style=for-the-badge&logo=github&logoColor=white" alt="View all repositories" />
+  <a href="https://github.com/osamabanihani?tab=repositories">
+    <img src="https://img.shields.io/badge/View_All_Projects-2563EB?style=for-the-badge&logo=github&logoColor=white" alt="View all projects" />
   </a>
 </div>
 
 ---
 
-## 📊 GitHub Statistics
+## 🏅 Education & Certifications
 
 <div align="center">
-  <a href="https://github.com/osamabanihani" target="_blank" rel="noopener noreferrer">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=osamabanihani&show_icons=true&count_private=true&theme=react&bg_color=0D1117&border_color=58A6FF&title_color=58A6FF&icon_color=58A6FF" alt="Osama Banihani GitHub statistics" />
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=osamabanihani&layout=compact&theme=react&bg_color=0D1117&border_color=58A6FF&title_color=58A6FF" alt="Osama Banihani top languages" />
-  </a>
+
+| Achievement | Organization | Year |
+|:---|:---|:---:|
+| **B.Sc. Computer Science** | Jadara University | 2021–2025 |
+| **Full Stack Development Training — 130 Hours** | DOT Jordan | 2026 |
+| **Mobile Applications Development with Flutter — 69 Hours** | DOT Jordan / UNICEF | 2025 |
+| **Complete Full-Stack Web Development Bootcamp — 62 Hours** | Udemy | 2025 |
+| **droidcon Amman Certificate of Attendance** | droidcon Amman | 2024 |
+
+</div>
+
+---
+
+## 📊 GitHub Analytics
+
+<div align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=osamabanihani&show_icons=true&theme=github_dark&hide_border=false&border_color=2563EB&title_color=58A6FF&icon_color=58A6FF&rank_icon=github" alt="GitHub statistics" />
+  <img width="41%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=osamabanihani&layout=compact&theme=github_dark&hide_border=false&border_color=2563EB&title_color=58A6FF" alt="Most used languages" />
 </div>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=osamabanihani&theme=react&background=0D1117&border=58A6FF&stroke=58A6FF&ring=58A6FF&fire=58A6FF&currStreakNum=58A6FF&sideNums=58A6FF&currStreakLabel=58A6FF&sideLabels=58A6FF&dates=8B949E" alt="Osama Banihani GitHub streak" />
+  <br />
+  <img width="70%" src="https://streak-stats.demolab.com?user=osamabanihani&theme=github-dark-blue&border=2563EB&ring=58A6FF&fire=38BDF8&currStreakLabel=58A6FF" alt="GitHub contribution streak" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=osamabanihani&theme=react-dark&bg_color=0D1117&color=58A6FF&line=58A6FF&point=58A6FF&area=true&hide_border=true" width="100%" alt="Osama Banihani contribution activity graph" />
+  <br />
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=osamabanihani&bg_color=0D1117&color=58A6FF&line=2563EB&point=FFFFFF&area=true&area_color=2563EB&hide_border=false&custom_title=Osama%27s%20Contribution%20Activity" alt="Animated GitHub activity graph" />
 </div>
 
 ---
@@ -314,51 +285,44 @@ My practical experience includes developing responsive React interfaces, integra
 ## 🏆 GitHub Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=osamabanihani&theme=radical&no-frame=true&no-bg=true&row=2&column=4&margin-w=15&margin-h=15" width="100%" alt="Osama Banihani GitHub trophies" />
+  <img width="100%" src="https://github-profile-trophy.vercel.app/?username=osamabanihani&theme=algolia&no-frame=true&no-bg=true&row=1&column=7&margin-w=8" alt="GitHub trophies" />
 </div>
 
 ---
 
-## 🎯 Professional Goals
+## 🎯 Current Goals
 
-<div align="center">
-
-| # | Goal | Status |
-|:-:|:-----|:------:|
-| 1 | Build and deploy reliable full-stack applications | 🔄 In Progress |
-| 2 | Strengthen advanced React and frontend architecture skills | 🔄 In Progress |
-| 3 | Improve backend design, API security, and database performance | 🔄 In Progress |
-| 4 | Build more production-ready Flutter applications | 🔄 In Progress |
-| 5 | Contribute to collaborative and open-source software projects | 📌 Planned |
-| 6 | Grow into a professional software engineering role | 🎯 Ongoing |
-
-</div>
+- Build more production-ready full-stack applications
+- Strengthen advanced React patterns and frontend architecture
+- Improve backend security, testing, and API design
+- Develop more complete Flutter applications
+- Contribute to collaborative and open-source projects
+- Grow into a professional software engineering role
 
 ---
 
-## 📫 Connect With Me
+## 🤝 Let's Connect
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/osama-banihani-/" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn profile" />
-  </a>
-  <a href="https://github.com/osamabanihani" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub profile" />
-  </a>
-  <a href="https://osama-portfolio-orcin.vercel.app/" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/Live_Portfolio-58A6FF?style=for-the-badge&logo=vercel&logoColor=white" alt="Live portfolio" />
+  <p>I am open to software-development opportunities, collaborations, and interesting projects.</p>
+
+  <a href="https://www.linkedin.com/in/osama-banihani-/">
+    <img src="https://img.shields.io/badge/LinkedIn-Message%20Me-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="mailto:osamabanihani124@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Osama" />
+    <img src="https://img.shields.io/badge/Gmail-Send%20Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://osama-portfolio-orcin.vercel.app/">
+    <img src="https://img.shields.io/badge/Portfolio-View%20My%20Work-2563EB?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
   </a>
 </div>
 
----
-
-> "Every project is a chance to learn, improve, and build something valuable."
+<br />
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=osamabanihani&label=Profile+Views&color=58A6FF&style=flat" alt="Osama Banihani profile view counter" />
-  <br /><br />
-  <i>Always learning. Always building.</i>
+  <i>“Great software is built one thoughtful commit at a time.”</i>
+</div>
+
+<div align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=130&section=footer&color=0:2563EB,50:0B3B8C,100:020617&animation=fadeIn" alt="Animated footer" />
 </div>
