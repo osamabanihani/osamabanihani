@@ -6,7 +6,7 @@
 </div>
 
 <div align="center">
-  <a href="https://osama-portfolio-orcin.vercel.app/">
+  <a href="https://osama-portfolio-orpin.vercel.app/">
     <img src="https://img.shields.io/badge/Portfolio-Visit%20Website-2563EB?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
   </a>
   <a href="https://www.linkedin.com/in/osama-banihani-/">
