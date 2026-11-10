@@ -1,0 +1,56 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="430" viewBox="0 0 1200 430" role="img" aria-label="Osama Banihani - Full Stack Developer animated banner">
+<defs>
+  <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#071126"/><stop offset=".53" stop-color="#0A1935"/><stop offset="1" stop-color="#100D2B"/></linearGradient>
+  <radialGradient id="a"><stop stop-color="#19c5f5" stop-opacity=".28"/><stop offset="1" stop-color="#19c5f5" stop-opacity="0"/></radialGradient>
+  <radialGradient id="b"><stop stop-color="#9268ed" stop-opacity=".27"/><stop offset="1" stop-color="#9268ed" stop-opacity="0"/></radialGradient>
+  <linearGradient id="line" x1="0" y1="0" x2="1" y2="0"><stop stop-color="#41DAFB"/><stop offset="1" stop-color="#9E82FF"/></linearGradient>
+  <pattern id="grid" width="34" height="34" patternUnits="userSpaceOnUse"><path d="M34 0H0V34" fill="none" stroke="#D7E4FF" stroke-opacity=".055"/></pattern>
+  <filter id="glow"><feGaussianBlur stdDeviation="7"/></filter>
+</defs>
+<style>
+@keyframes float{0%,100%{transform:translateY(0)}50%{transform:translateY(-9px)}}
+@keyframes float2{0%,100%{transform:translateY(0)}50%{transform:translateY(8px)}}
+@keyframes pulse{0%,100%{opacity:.40}50%{opacity:.94}}
+@keyframes blink{0%,49%{opacity:1}50%,100%{opacity:0}}
+@keyframes scan{0%{transform:translateX(-90px)}100%{transform:translateX(1000px)}}
+.window{animation:float 7s ease-in-out infinite;transform-origin:center}
+.phone{animation:float2 6s ease-in-out infinite;transform-origin:center}
+.pulse{animation:pulse 3s ease-in-out infinite}
+.cursor{animation:blink 1s steps(1) infinite}
+.scan{animation:scan 12s ease-in-out infinite}
+@media(prefers-reduced-motion:reduce){*{animation:none!important}}
+</style>
+<rect width="1200" height="430" rx="24" fill="url(#bg)"/>
+<circle cx="230" cy="60" r="360" fill="url(#a)"/><circle cx="1030" cy="380" r="360" fill="url(#b)"/>
+<rect width="1200" height="430" rx="24" fill="url(#grid)"/>
+<path d="M30 345H650" stroke="url(#line)" stroke-opacity=".6" stroke-width="1.5"/><path class="scan" d="M0 345H130" stroke="#45E8FF" stroke-width="2.5" opacity=".55" filter="url(#glow)"/>
+<g opacity=".55"><circle cx="62" cy="50" r="4" fill="#54DBFF"/><circle cx="78" cy="50" r="4" fill="#8078FF"/><circle cx="94" cy="50" r="4" fill="#2B496D"/><path d="M108 50H230" stroke="#476484" stroke-width="2"/></g>
+<text x="60" y="104" font-family="Verdana,Arial,sans-serif" font-size="15" letter-spacing="2.4" fill="#6BE1F9">&lt; DEVELOPER PORTFOLIO /&gt;</text>
+<text x="56" y="180" font-family="Verdana,Arial,sans-serif" font-size="64" font-weight="800" letter-spacing="1" fill="#F4F8FF">OSAMA</text>
+<text x="57" y="250" font-family="Verdana,Arial,sans-serif" font-size="64" font-weight="800" letter-spacing="1" fill="#F4F8FF">BANIHANI</text>
+<rect x="61" y="272" width="60" height="4" rx="2" fill="url(#line)"/>
+<text x="133" y="281" font-family="Verdana,Arial,sans-serif" font-size="19" font-weight="600" fill="#ADBEDE" letter-spacing="1.3">FULL-STACK SOFTWARE DEVELOPER</text>
+<text x="60" y="320" font-family="Verdana,Arial,sans-serif" font-size="16" fill="#93A6C7">Building thoughtful experiences across web, mobile &amp; backend.</text>
+<g font-family="Verdana,Arial,sans-serif" font-size="13" font-weight="700" letter-spacing=".5">
+ <rect x="60" y="369" width="116" height="34" rx="17" fill="#112C4D" stroke="#255F81"/><text x="79" y="391" fill="#7BEAFF">REACT.JS</text>
+ <rect x="189" y="369" width="159" height="34" rx="17" fill="#1C244D" stroke="#51539C"/><text x="208" y="391" fill="#C1AEFF">ASP.NET CORE</text>
+ <rect x="361" y="369" width="111" height="34" rx="17" fill="#112D40" stroke="#287C7E"/><text x="385" y="391" fill="#81E5D5">FLUTTER</text>
+</g>
+<g class="window">
+ <rect x="784" y="73" width="356" height="265" rx="20" fill="#071224" stroke="#304668" stroke-width="1.5"/>
+ <rect x="785" y="74" width="354" height="44" rx="19" fill="#12213C"/>
+ <path d="M785 98V118H1139V98" fill="#12213C"/>
+ <circle cx="814" cy="96" r="5" fill="#F27D8C"/><circle cx="831" cy="96" r="5" fill="#F2BE61"/><circle cx="848" cy="96" r="5" fill="#6EDDAB"/>
+ <text x="892" y="101" font-family="monospace" font-size="13" fill="#7896C1">developer.ts</text>
+ <g font-family="monospace" font-size="17">
+ <text x="811" y="160" fill="#657B9A">01</text><text x="857" y="160" fill="#C99AF7">const</text><text x="918" y="160" fill="#E5EDF9">developer = {</text>
+ <text x="811" y="195" fill="#657B9A">02</text><text x="857" y="195" fill="#78DDF4">focus:</text><text x="929" y="195" fill="#A2E8A3">'impact',</text>
+ <text x="811" y="230" fill="#657B9A">03</text><text x="857" y="230" fill="#78DDF4">stack:</text><text x="929" y="230" fill="#A2E8A3">'full-stack',</text>
+ <text x="811" y="265" fill="#657B9A">04</text><text x="857" y="265" fill="#78DDF4">status:</text><text x="937" y="265" fill="#A2E8A3">'building'</text>
+ <text x="811" y="300" fill="#657B9A">05</text><text x="857" y="300" fill="#E5EDF9">};</text><rect class="cursor" x="879" y="283" width="9" height="20" rx="1" fill="#49E6F7"/>
+ </g>
+</g>
+<g class="phone"><rect x="1075" y="265" width="75" height="128" rx="16" fill="#13223C" stroke="#7386D0" stroke-width="2"/><rect x="1083" y="278" width="59" height="101" rx="10" fill="#081427"/><rect x="1100" y="272" width="26" height="3" rx="2" fill="#4B6492"/><path d="M1096 341L1109 327L1118 335L1131 313" stroke="#62DBF7" stroke-width="3.2" fill="none"/><circle class="pulse" cx="1130" cy="313" r="5" fill="#62DBF7"/></g>
+<circle class="pulse" cx="749" cy="93" r="6" fill="#52DFFB"/><circle class="pulse" cx="1157" cy="172" r="3.5" fill="#A78CFF"/>
+<rect x="0.75" y=".75" width="1198.5" height="428.5" rx="23.25" fill="none" stroke="#364C73" stroke-opacity=".65" stroke-width="1.5"/>
+</svg>
